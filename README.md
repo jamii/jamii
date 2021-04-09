@@ -1,4 +1,4 @@
-I'm an independent researcher. 
+I'm an independent researcher. You can find my work at [scattered-thoughts.net](https://scattered-thoughts.net).
 
 I've built database engines, query planners, compilers, developer tools and interfaces for [Materialize](https://materialize.com/), [RelationalAI](https://www.relational.ai/), [LogicBlox](https://developer.logicblox.com/technology/) and [Eve](http://witheve.com/), as well as for various consulting and personal projects.
 
