@@ -1,5 +1,5 @@
-I'm an independent researcher. You can see my work at [scattered-thoughts.net](https://scattered-thoughts.net).
+Tinkering with systems.
 
-In the past I've built database engines, query planners, compilers, developer tools and interfaces for [Materialize](https://materialize.com/), [RelationalAI](https://www.relational.ai/), [LogicBlox](https://developer.logicblox.com/technology/) and [Eve](http://witheve.com/), as well as for myriad consulting and personal research projects.
+Currently working on storage and queries at [TigerBeetle](https://tigerbeetle.com/). Previously on incrementally maintained sql views at [Materialize](https://materialize.com/), in-database machine learning at [RelationalAI](https://www.relational.ai/), declarative languages for UI at [LogicBlox](https://developer.logicblox.com/technology/) and end-user programming and query languages at [Eve](http://witheve.com/), interspersed with myriad consulting gigs and regular bouts of independent research.
 
-Currently all my writing, research and code is funded by my sponsors. 
+In Vancouver, BC. [Say hi](mailto:jamie@scattered-thoughts.net) if you're in town.
