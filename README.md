@@ -1,5 +1,5 @@
-Tinkering with systems. Writing at [scattered-thoughts.net](https://www.scattered-thoughts.net/).
+Tinkering with systems. 
 
-In Vancouver, BC. [Say hi](mailto:jamie@scattered-thoughts.net) if you're in town.
+Writing at [scattered-thoughts.net](https://www.scattered-thoughts.net/). 
 
 Occasionally available for consulting.
